@@ -1,0 +1,35 @@
+#SampleID,ForwardBarcodeSequence,LibraryNumber,Direction,LibraryName,ProjectName,Region,Location,Depth,SampleDepth,DepthMeter,Sample_types,SampleSource,Library,SampleCode,Description
+XM1,CGACCGCG,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Lower.Mesophotic ,Xmuta.deep,66,X.muta,Tissues,LibraryTika,SCR2,XM1
+XM2,CGCGCCAG,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Lower.Mesophotic ,Xmuta.deep,86,X.muta,Tissues,LibraryTika,SCR5,XM2
+XM3,ACGTCGTC,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V5,Curacao,Lower.Mesophotic ,Xmuta.deep,72,X.muta,Tissues,LibraryTika,SCR7,XM3
+XM4,GGCCAGTA,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Lower.Mesophotic ,Xmuta.deep,85,X.muta,Tissues,LibraryTika,SCR8,XM4
+XM5,CTGAGTTC,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Lower.Mesophotic ,Xmuta.deep,82,X.muta,Tissues,LibraryTika,SCR9,XM5
+XM6,GGAGCGCA,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Xmuta.middle,51,X.muta,Tissues,LibraryTika,SCR1,XM6
+XM7,TCTCTACC,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Xmuta.middle,52,X.muta,Tissues,LibraryTika,SCR10,XM7
+XM8,CCGAGGCG,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Xmuta.middle,52,X.muta,Tissues,LibraryTika,SCR11,XM8
+XM9,GAAGCTCG,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Xmuta.middle,48,X.muta,Tissues,LibraryTika,SCR12,XM9
+XM10,AAGGTAAG,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Xmuta.middle,48,X.muta,Tissues,LibraryTika,SCR13,XM10
+XM11,CCGAGGCG,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Xmuta.shallow,27,X.muta,Tissues,LibraryIndra,SCR57,XM11
+XM12,GAAGCTCG,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Xmuta.shallow,27,X.muta,Tissues,LibraryIndra,SCR58,XM12
+XM13,AAGGTAAG,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Xmuta.shallow,27,X.muta,Tissues,LibraryIndra,SCR59,XM13
+XM14,ATGCGATT,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Xmuta.shallow,27,X.muta,Tissues,LibraryIndra,SCR60,XM14
+XM15,TATATTGA,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Xmuta.shallow,27,X.muta,Tissues,LibraryIndra,SCR63,XM15
+AS1,GTAAGAAG,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Asventres.middle,54,A.sventres,Tissues,LibraryTika,SCR21,AS1
+AS2,GAACGCTG,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Asventres.middle,52,A.sventres,Tissues,LibraryTika,SCR22,AS2
+AS3,CTGACCGG,1,p,"NG-9800.Lib2.Tika.lib128883.4673.2.1.fastq,NG-9800.Lib2.Tika.lib128883.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Asventres.middle,52,A.sventres,Tissues,LibraryTika,SCR23,AS3
+AS4,AATAAGGA,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Asventres.middle,54,A.sventres,Tissues,LibraryIndra,SCR30,AS4
+AS5,TACTTATC,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Asventres.middle,53,A.sventres,Tissues,LibraryIndra,SCR31,AS5
+AS6,CGTACTGA,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Asventres.shallow,12,A.sventres,Tissues,LibraryIndra,SCR50,AS6
+AS7,CGCGCCAG,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Asventres.shallow,12,A.sventres,Tissues,LibraryIndra,SCR51,AS7
+AS8,CTGAGTTC,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Asventres.shallow,12,A.sventres,Tissues,LibraryIndra,SCR55,AS8
+AS9,AAGATCGT,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Asventres.shallow,27,A.sventres,Tissues,LibraryIndra,SCR61,AS9
+AS10,ATATAGGA,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Asventres.shallow,27,A.sventres,Tissues,LibraryIndra,SCR62,AS10
+SW1,ACCGGAAT,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Lower.Mesophotic ,Seawater.deep,84,Seawater,Filter,LibraryIndra,W1,SW1
+SW2,TGCCTCTC,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Lower.Mesophotic ,Seawater.deep,92,Seawater,Filter,LibraryIndra,W3,SW2
+SW3,CTTCATGG,3,p,"NG-9800.Library.MIJPY.lib128885.4673.2.1.fastq,NG-9800.Library.MIJPY.lib128885.4673.2.2.fastq",depth.gradient,V4,Curacao,Lower.Mesophotic ,Seawater.deep,85,Seawater,Filter,LibraryMIJPY,W7,SW3
+SW4,TTCTGAAC,3,p,"NG-9800.Library.MIJPY.lib128885.4673.2.1.fastq,NG-9800.Library.MIJPY.lib128885.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Seawater.middle,50,Seawater,Filter,LibraryMIJPY,W5,SW4
+SW5,GGTCAGAT,3,p,"NG-9800.Library.MIJPY.lib128885.4673.2.1.fastq,NG-9800.Library.MIJPY.lib128885.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Seawater.middle,40,Seawater,Filter,LibraryMIJPY,W10,SW5
+SW6,GCCTCATC,3,p,"NG-9800.Library.MIJPY.lib128885.4673.2.1.fastq,NG-9800.Library.MIJPY.lib128885.4673.2.2.fastq",depth.gradient,V4,Curacao,Upper.Mesophotic,Seawater.middle,50,Seawater,Filter,LibraryMIJPY,W4,SW6
+SW7,TACCTACT,2,p,"NG-9800.Lib3.Indra.lib128884.4673.2.1.fastq,NG-9800.Lib3.Indra.lib128884.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Seawater.shallow,20,Seawater,Filter,LibraryIndra,W2,SW7
+SW8,GAGTTCAT,3,p,"NG-9800.Library.MIJPY.lib128885.4673.2.1.fastq,NG-9800.Library.MIJPY.lib128885.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Seawater.shallow,21,Seawater,Filter,LibraryMIJPY,W6,SW8
+SW9,ACGAGCGA,3,p,"NG-9800.Library.MIJPY.lib128885.4673.2.1.fastq,NG-9800.Library.MIJPY.lib128885.4673.2.2.fastq",depth.gradient,V4,Curacao,Shallow,Seawater.shallow,20,Seawater,Filter,LibraryMIJPY,W8,SW9
