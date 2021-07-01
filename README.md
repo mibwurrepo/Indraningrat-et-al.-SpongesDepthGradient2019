@@ -1,5 +1,5 @@
-# Indraningrat-et-al.-SpongesDepthGradient2019
-Study title: "Depth affects sponge prokaryotic communities and their antimicrobial activities in two Demosponges, Xestospongia muta and Agelas sventres" Authors: Anak Agung Gede Indraningrat, Georg Steinert, Leontine E. Becking, Benjamin Mueller, Jasper de Goeij, Hauke Smidt, Detmer Sipkema
+# Indraningrat-et-al.-SpongesDepthGradient2021
+Study title: "Sponge holobionts shift their prokaryotic communities and antimicrobial activity from shallow to lower mesophotic depths" Authors: Anak Agung Gede Indraningrat, Georg Steinert, Leontine E. Becking, Benjamin Mueller, Jasper de Goeij, Hauke Smidt, Detmer Sipkema
 
 In this repository are all the files and codes used for reproducible data analysis Below is a short descriptions of the files.
 
