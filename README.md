@@ -23,4 +23,4 @@ DG.tre contains phylogenetic tree information of OTUs.
 
 HeatMap.csv contains list of OTUs with average relative abundance above 0.25% in all samples.
 
-All questions or comments concerning this analysis can be directed at anak1.indraningrat@wur.nl
+All questions or comments concerning this analysis can be directed at indraningrat@warmadewa.ac.id
